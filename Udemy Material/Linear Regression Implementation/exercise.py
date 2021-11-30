@@ -112,6 +112,8 @@ def gradient_descent_linear_regression(num_iterations, population, profit, learn
 
 def mse_below_five_k():
     """
+    OPTIONAL PROBLEM:
+    -----------------
     Your goal is to train either a linear regression or polynomial regression model
     and have the mean squared error below $5000 dollars. You as the CEO somehow can tolerate
     being off by $5000 when trying to expand your restaurant chain.
@@ -120,6 +122,7 @@ def mse_below_five_k():
     squared error be?
     
     return the mean squared error you acheive
+    
     """
     
     ############# YOUR CODE HERE ##########
