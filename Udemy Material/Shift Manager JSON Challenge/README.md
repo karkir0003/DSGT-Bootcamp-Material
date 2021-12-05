@@ -5,24 +5,25 @@ backend developer. To make our application work, we need you to help us work wit
 ## Task 1: Hospital Pay
 A worker is either a `medic` or `intern`. Per shift, a medic is paid $305 while an intern is paid $142. Build an endpoint that takes in a JSON file called `data.json` and produces a
 file called `output.json` that is formatted as the following.
-
-`{
+```
+{
   "workers": [
     {
       "id": 1,
-      "price": 810
+      "pay": <worker1pay>
     },
     {
       "id": 2,
-      "price": 810
+      "pay": <worker2pay>
     },
     {
       "id": 3,
-      "price": 252
+      "pay": <worker3pay>
     },
     {
       "id": 4,
-      "price": 540
+      "pay": <worker4pay>
     }
   ]
-}`
+}
+```
