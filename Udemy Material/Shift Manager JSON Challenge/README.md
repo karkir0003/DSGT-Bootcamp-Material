@@ -1,5 +1,4 @@
-Hi. I hope you are doing well. My team would like to develop a hospital shift manager application. We have some frontend designers (ie: UI/UX people), but we need your help as a
-backend developer. To make our application work, we need you to help us work with our JSON data on the shifts.
+Hi. I hope you are doing well. My team would like to develop a hospital shift manager application. We have some frontend designers (ie: UI/UX people), but we need your help as a backend developer. To make our application work, we need you to help us work with our JSON data on the shifts. NOTE that `data.json` and example `output.json` files are just examples for sake of formatting. Don't rely on these to "evaluate the correctness of your solution". It is your responsibility to test your implementation on some test cases. Your submission should clearly identify your code specific to `Task 1`, `Task 2`, `Task 3`, `Task 4`
 
 
 ## Task 1: Hospital Pay
