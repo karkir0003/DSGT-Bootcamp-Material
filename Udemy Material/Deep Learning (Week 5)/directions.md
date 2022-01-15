@@ -1,5 +1,5 @@
 Assignment Instructions
-To get started, simply click the assignment link given in the first question and follow prompts as given inside of the google Collaboratory notebook.
+To get started, simply click the assignment link given in the first question (https://colab.research.google.com/github/google/eng-edu/blob/main/ml/cc/exercises/intro_to_neural_nets.ipynb?utm_source=mlcc&utm_campaign=colab-external&utm_medium=referral&utm_content=intro_to_nn_tf2-colab&hl=en) and follow prompts as given inside of the google Collaboratory notebook.
 
 Assignment Link: Intro to Neural Networks
 
